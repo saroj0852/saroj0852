@@ -3,11 +3,14 @@
 - 🌱 I’m currently learning C++, OOPS, DSA and Backend Development.     
 - ⚡ Fun fact: I’m a mountain person who loves suspense movies!  
 
-### 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]((https://www.instagram.com/saroj__mohapatra__07/))
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saroj0852/)
+## 🔗 Connect with me
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/SarojMohapa7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saroj0852/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/saroj__mohapatra__07/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mosaroj182@gmail.com)
+## ✨ About Me  
+I am a Computer Science and Engineering student with a strong foundation in **C++, Python, and JavaScript**, and a passion for **software development and database management**.  
+I enjoy building **high-performance, error-minimized applications** with a focus on **architectural integrity** and clean design.  
 
 ### 🛠️ Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -19,9 +22,10 @@
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=saroj0852&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=saroj0852&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saroj0852&theme=radical&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=saroj0852&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=saroj0852&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=saroj0852&theme=tokyonight&hide_border=false&layout=compact)
+
 
 <!---
 
