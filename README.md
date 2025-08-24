@@ -3,14 +3,27 @@
 - 🌱 I’m currently learning C++, OOPS, DSA and Backend Development.     
 - ⚡ Fun fact: I’m a mountain person who loves suspense movies!  
 
-## 🔗 Connect with me
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/SarojMohapa7)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saroj0852/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/saroj__mohapatra__07/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mosaroj182@gmail.com)
-## ✨ About Me  
-I am a Computer Science and Engineering student with a strong foundation in **C++, Python, and JavaScript**, and a passion for **software development and database management**.  
-I enjoy building **high-performance, error-minimized applications** with a focus on **architectural integrity** and clean design.  
+## 🔗 Connect with me  
+
+<a href="https://dev.to/your-dev-id" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" alt="DEV" width="40" height="40"/>
+</a>
+<a href="https://twitter.com/SarojMohapa7" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg" alt="Twitter" width="40" height="40"/>
+</a>
+<a href="https://www.linkedin.com/in/saroj0852/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
+</a>
+<a href="https://stackoverflow.com/users/your-stackoverflow-id" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/stackoverflow.svg" alt="Stack Overflow" width="40" height="40"/>
+</a>
+<a href="https://www.instagram.com/saroj__mohapatra__07/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="40" height="40"/>
+</a>
+<a href="mailto:mosaroj182@gmail.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" width="40" height="40"/>
+</a>
+
 
 ### 🛠️ Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
