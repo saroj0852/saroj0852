@@ -6,10 +6,10 @@
 ## 🔗 Connect with me  
 
 <a href="https://twitter.com/SarojMohapa7" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X (Twitter)" width="40" height="40" style="fill:#000000;"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X (Twitter)" width="40" height="40"/>
 </a>
 <a href="https://www.linkedin.com/in/saroj0852/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" style="fill:#0A66C2;"/>
+  <img src="https://upload.wikimedia.org/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="100" height="30"/>
 </a>
 <a href="https://www.instagram.com/saroj__mohapatra__07/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" width="40" height="40"/>
