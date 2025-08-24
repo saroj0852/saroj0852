@@ -2,20 +2,21 @@
 - 🌱 I’m currently learning C++, OOPS, DSA and Backend Development.     
 - ⚡ Fun fact: I’m a mountain person who loves suspense movies!  
 
-# 🔗 Connect with me  
+### 🔗 Connect with me  
 
-<a href="https://www.linkedin.com/in/saroj0852/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+<a href="https://www.linkedin.com/in/saroj0852/" target="_blank" style="margin-right:10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" style="display:inline-block; vertical-align:middle;">
 </a>
-<a href="https://www.instagram.com/saroj__mohapatra__07/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" width="40" height="40"/>
+<a href="https://www.instagram.com/saroj__mohapatra__07/" target="_blank" style="margin-right:10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" width="40" height="40" style="display:inline-block; vertical-align:middle;">
 </a>
-<a href="mailto:mosaroj182@gmail.com" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40"/>
+<a href="mailto:mosaroj182@gmail.com" target="_blank" style="margin-right:10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40" style="display:inline-block; vertical-align:middle;">
 </a>
-<a href="https://x.com/yourusername" target="_blank">
-  <img src="https://freelogopng.com/images/all_img/1690643591twitter-x-logo-png.png" width="40" height="40" style="filter: invert(1);"/>
+<a href="https://x.com/yourusername" target="_blank" style="margin-right:10px;">
+  <img src="https://freelogopng.com/images/all_img/1690643591twitter-x-logo-png.png" width="40" height="40" style="display:inline-block; vertical-align:middle; filter: invert(1);">
 </a>
+
 
 
 ### 🛠️ Tech Stack:
