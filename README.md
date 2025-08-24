@@ -1,21 +1,19 @@
-# 👋 Hi, I'm Saroj Mohapatra  
-
+ 👋 Hi, I'm Saroj Mohapatra  
 - 🌱 I’m currently learning C++, OOPS, DSA and Backend Development.     
 - ⚡ Fun fact: I’m a mountain person who loves suspense movies!  
 
-## 🔗 Connect with me  
-
-<a href="https://twitter.com/SarojMohapa7" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X (Twitter)" width="40" height="40" style="fill:#000000;"/>
-</a>
+🔗 Connect with me  
 <a href="https://www.linkedin.com/in/saroj0852/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" style="fill:#0A66C2; style=color= blue"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
 </a>
 <a href="https://www.instagram.com/saroj__mohapatra__07/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" width="40" height="40"/>
 </a>
 <a href="mailto:mosaroj182@gmail.com" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40"/>
+</a>
+<a href="https://twitter.com/SarojMohapa7" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X (Twitter)" width="40" height="40" style="fill:#000000;"/>
 </a>
 
 ### 🛠️ Tech Stack:
