@@ -2,7 +2,8 @@
 - 🌱 I’m currently learning C++, OOPS, DSA and Backend Development.     
 - ⚡ Fun fact: I’m a mountain person who loves suspense movies!  
 
-🔗 Connect with me  
+#🔗 Connect with me  
+
 <a href="https://www.linkedin.com/in/saroj0852/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
 </a>
@@ -12,9 +13,10 @@
 <a href="mailto:mosaroj182@gmail.com" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40"/>
 </a>
-<a href="https://twitter.com/SarojMohapa7" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X (Twitter)" width="40" height="40" style="fill:#000000;"/>
+<a href="https://x.com/yourusername" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X (Twitter)" width="40" height="40" style="filter: invert(1);"/>
 </a>
+
 
 ### 🛠️ Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
